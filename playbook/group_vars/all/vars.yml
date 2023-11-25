@@ -1,0 +1,5 @@
+clickhouse_database_name: vector_logs
+clickhouse_create_table_name: dummy_logs
+api_user: vector
+api_password: 12345
+ 
